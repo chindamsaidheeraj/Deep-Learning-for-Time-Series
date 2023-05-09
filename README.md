@@ -15,4 +15,4 @@ concerning the nature of the data sets.
 methods like ARIMAX using datasets with varying characteristics to understand 
 effective scenarios, merits, and demerits and recommend optimal approaches.
 
-More details of implementations in report.
+More details of implementations in report.[Report_DeepLearning_Timeseries_Forecasting.pdf](https://github.com/chindamsaidheeraj/Deep-Learning-for-Time-Series/blob/main/Report_DeepLearning_Timeseries_Forecasting.pdf)
