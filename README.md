@@ -14,3 +14,5 @@ concerning the nature of the data sets.
 • For Multivariate time series, LSTM models need to be compared with traditional 
 methods like ARIMAX using datasets with varying characteristics to understand 
 effective scenarios, merits, and demerits and recommend optimal approaches.
+
+More details of implementations in report.
